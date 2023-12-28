@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @Syedabdulazeez
 - 👀 I’m interested in making full stack web applications
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning ruby on rails and react.js
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me syedabdulazeez25@gmail.com
 
 <!---
 Syedabdulazeez/Syedabdulazeez is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
