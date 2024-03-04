@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Syedabdulazeez
 - 👀 I’m interested in making full stack web applications
-- 🌱 I’m currently learning ruby on rails and react.js
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently working with ruby on rails and react.js
+- 💞️ I’m looking to collaborate on rails applications
 - 📫 How to reach me syedabdulazeez25@gmail.com
 
 <!---
